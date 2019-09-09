@@ -1,0 +1,10 @@
+E:\vs\ScreenShot\bin\Debug\ScreenShot.exe.config
+E:\vs\ScreenShot\bin\Debug\ScreenShot.exe
+E:\vs\ScreenShot\bin\Debug\ScreenShot.pdb
+E:\vs\ScreenShot\obj\Debug\ScreenShot.csprojAssemblyReference.cache
+E:\vs\ScreenShot\obj\Debug\ScreenShot.Properties.Resources.resources
+E:\vs\ScreenShot\obj\Debug\ScreenShot.csproj.GenerateResource.cache
+E:\vs\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+E:\vs\ScreenShot\obj\Debug\ScreenShot.exe
+E:\vs\ScreenShot\obj\Debug\ScreenShot.pdb
+E:\vs\ScreenShot\obj\Debug\ScreenShot.Form1.resources
